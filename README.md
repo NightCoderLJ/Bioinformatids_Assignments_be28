@@ -1,2 +1,2 @@
-# Bioinformatids_Assignment1_be28
-This contains files required for assignment 1
+# Bioinformatids_Assignments_be28
+This contains files required for assignments
