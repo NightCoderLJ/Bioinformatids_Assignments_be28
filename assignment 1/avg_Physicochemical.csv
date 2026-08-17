@@ -1,0 +1,3 @@
+Input_row,Stacking energy,Enthalpy,Entropy,Flexibility_shift,Flexibility_slide,Free energy,Melting Temperature,Mobility to bend towards major groove,Mobility to bend towards minor groove,Probability contacting nucleosome core,Rise stiffness,Roll stiffness,Shift stiffness,Slide stiffness,Tilt stiffness,Twist stiffness
+1,1.62,5.44,14.96,2.277,8.697,0.59,43.202,0.988,0.93,6.08,7.027,17.4,0.803,2.395,25.2,23.3
+2,1.58,9.97,24.8,5.842,3.778,1.673,97.08,0.898,1.085,3.04,7.257,19.4,1.032,2.105,28.4,18.1
