@@ -1,0 +1,155 @@
+sl no	AA	Value
+48	P	-0.857 *
+1	:	0
+3	L	0
+4	S	0
+7	D	0
+8	K	0
+10	0   F	0
+10	1   K	0
+10	3   L	0
+11	6:00 PM	0
+12	1:00 PM	0
+12	4   H	0
+12	6   S	0
+12	7   L	0
+12	8   D	0
+12	9   K	0
+13	0   F	0
+13	4   V	0
+13	8   L	0
+14	2   Y	0
+14	3   R	0
+17	K	0
+26	G	0
+30	L	0
+32	R	0
+38	P	0
+40	T	0
+41	K	0
+42	T	0
+43	Y	0
+44	F	0
+46	H	0
+53	G	0
+54	S	0
+58	K	0
+60	H	0
+61	G	0
+63	K	0
+64	V	0
+71	A	0
+77	D	0
+82	L	0
+85	L	0
+86	S	0
+89	H	0
+90	A	0
+92	K	0
+93	L	0
+94	R	0
+95	V	0
+96	D	0
+97	P	0
+99	N	0
+2	S	-0.305
+10	A	-0.305
+10	5   H	-0.305
+10	6   C	-0.305
+10	8   L	-0.305
+11	2   S	-0.305
+11	4   M	-0.305
+11	9   F	-0.305
+12	R	-0.305
+12	0   T	-0.305
+12	5   V	-0.305
+13	1   L	-0.305
+13	7:00 AM	-0.305
+13	9:00 AM	-0.305
+14	0   E	-0.305
+14	1   R	-0.305
+15	W	-0.305
+19	G	-0.305
+28	D	-0.305
+29	A	-0.305
+33	M	-0.305
+34	I	-0.305
+49	D	-0.305
+56	H	-0.305
+57	I	-0.305
+67	G	-0.305
+68	I	-0.305
+74	K	-0.305
+76	D	-0.305
+81	G	-0.305
+83	M	-0.305
+87	E	-0.305
+88	Q	-0.305
+98	A	-0.305
+10	9   V	-0.474
+11	0   V	-0.474
+22	A	-0.474
+37	Y	-0.474
+39	Q	-0.474
+45	S	-0.474
+11	V	-0.586
+50	V	-0.586
+52	P	-0.586
+72	V	-0.586
+10	2   I	-0.6
+10	4   N	-0.6
+10	7   I	-0.6
+11	1   I	-0.6
+13	5:00 AM	-0.6
+13	6   L	-0.6
+47	W	-0.6
+51	T	-0.6
+55	P	-0.6
+62	K	-0.6
+79	K	-0.6
+18	I	-0.689
+12	2   E	-0.76
+65	M	-0.76
+66	G	-0.76
+78	L	-0.76
+80	T	-0.76
+91	Y	-0.76
+13	2   S	-0.86
+59	A	-0.86
+69	A	-0.86
+12	3:00 AM	-0.886
+21	S	-0.886
+25	I	-0.886
+27	N	-0.886
+31	S	-0.886
+24	A	-0.908
+11	8   E	-0.916
+16	S	-0.916
+11	5   F	-0.935
+75	I	-0.995
+13	A	-1.034
+20	K	-1.034
+23	D	-1.034
+5	D	-1.121
+6	K	-1.16
+14	L	-1.16
+9	A	-1.169
+35	V	-1.295
+36	V	-1.367
+13	3   G	-1.414
+84	E	-1.414
+73	S	-1.594
+70	L	-1.673
+11	3   T	-1.72
+11	7   K	-1.846
+*	gap fra	ction no less than  0.50; conservation set to M-S
+AL	2CO par	ameters are:
+Co	nservat	ion calculation method: entropy-based
+Co	nservat	ion not normalized
+Ga	p fract	ion to suppress calculation:  0.50
+In	put ali	gnment file: QUERY_vrrjfe
+Ou	tput co	nservation file: QUERY_vrrjfe.csv.txt
+Ou	tput al	ignment file with index: QUERY_vrrjfe.csv.aln; Block size: 70
+We	ighting	scheme: unweighted
+Wi	ndow si	ze: 1
+	M: mean	;  S: standard deviation
